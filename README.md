@@ -1,11 +1,12 @@
-# AppSheet / Google Apps Script / Data Studio Training 2026
+# `AppSheet` / `Google Apps Script` / `Data Studio` Training 2026
 
 > การพลิกโฉมการทำงานในคณะเศรษฐศาสตร์ด้วย AppSheet, Google Apps Script และ Data Studio: การออกแบบ พัฒนา และประยุกต์ใช้งานเพื่อเพิ่มประสิทธิภาพองค์กร
 
 
 # Resources
+- [Information](/src/info.pdf)
 - [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/97g3a97dWzd)
-- 
+- [Dashboard Demo](https://datastudio.google.com/s/mmiReemdReE)
 
 # AppSheet
 - Virtual column formula
