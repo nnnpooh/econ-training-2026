@@ -6,6 +6,7 @@
 # Resources
 - [Information](/src/info.pdf)
 - [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/97g3a97dWzd)
+- [Youtube Playlist](#)
 
 # Demo
 - [Form](https://script.google.com/macros/s/AKfycbzAqVp_fHHfoG-_ps0zWaBpFitKqM2_tybKaqqNeFtKsiRZAn8JhCuYCCI2OuyDWy9pzQ/exec)
