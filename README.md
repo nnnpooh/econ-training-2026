@@ -1,3 +1,18 @@
-# Lectures Topics
+# AppSheet / Google Apps Script / Data Studio Training 2026
 
-## Lecture VDO Playlist
+> การพลิกโฉมการทำงานในคณะเศรษฐศาสตร์ด้วย AppSheet, Google Apps Script และ Data Studio: การออกแบบ พัฒนา และประยุกต์ใช้งานเพื่อเพิ่มประสิทธิภาพองค์กร
+
+
+# Resources
+- [Diagram](https://link.excalidraw.com/l/9PltHIQHZMD/97g3a97dWzd)
+- 
+
+# AppSheet
+- Virtual column formula
+```
+CONCATENATE([room], " - " , [name], " - ", [purpose])
+```
+
+# AppScript
+
+- [Code to send email notification](https://gist.github.com/nnnpooh/09f577c7fd44ea2f633d978e8f0846c7#file-appscript_email-js)
