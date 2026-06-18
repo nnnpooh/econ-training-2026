@@ -12,6 +12,14 @@
 - [Dashboard](https://datastudio.google.com/s/mmiReemdReE)
 
 # AppSheet
+- Current time
+```
+NOW()
+```
+- Data Validity
+```
+[end_time] > [start_time]
+```
 - Virtual column formula
 ```
 CONCATENATE([room], " - " , [name], " - ", [purpose])
